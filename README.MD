@@ -10,7 +10,7 @@ pip install -r requirment.txt
 ## Run the code
 python integration.py
 
-###make the sure the camera baseline and focal length are specified
+### make the sure the camera baseline and focal length are specified
 
 ### Line 71-73
 ### configuration based on my camera parameter
